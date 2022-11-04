@@ -1,5 +1,5 @@
-
-Enter in the folder `api` from terminal, first run:
+# Run Backend
+Enter in the folder `api` from terminal
 
 Now we need install deps with: 
 
