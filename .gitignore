@@ -1,0 +1,7 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+api/node_modules/
+api/.env
+api/package-lock.json
+
+client/node_modules/
+client/package-lock.json
